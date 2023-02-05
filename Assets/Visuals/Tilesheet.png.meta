@@ -548,7 +548,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -556,6 +556,69 @@ TextureImporter:
       bones: []
       spriteID: 3928f5c19120e4c5aa51e35345c8083c
       internalID: 1662512344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e4d189b4251442b92a910c9e33f3dd
+      internalID: -587973324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d85951b0c04b02a1ffc073c846f94
+      internalID: -2105907753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e234f015b94b5a944470a1535f4ed
+      internalID: 80550908
       vertices: []
       indices: 
       edges: []
@@ -573,6 +636,7 @@ TextureImporter:
     nameFileIdTable:
       Tilesheet_10: 2109820970
       Tilesheet_11: -583781010
+      Tilesheet_21: -2105907753
       Tilesheet_1: 1050523559
       Tilesheet_12: -136079147
       Tilesheet_6: -304249260
@@ -590,7 +654,9 @@ TextureImporter:
       Tilesheet_17: -2102922632
       Tilesheet_18: -891734256
       Tilesheet_7: 1559179149
+      Tilesheet_20: -587973324
       Tilesheet_19: 1662512344
+      Tilesheet_22: 80550908
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
